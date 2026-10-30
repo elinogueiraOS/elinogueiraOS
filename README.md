@@ -18,5 +18,5 @@ I work where marketing, sales and data meet: lead management, CRM & automation, 
 
 <p>
   <a href="https://www.linkedin.com/in/elinogueira"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" /></a>
-  <a href="https://www.linkedin.com/in/elinogueira"><img src="https://img.shields.io/badge/Virtual_coffee_%C2%B7_30_min%2C_no_pitch-FF751F?style=flat" alt="Virtual Coffee Chat: 30 min, no pitch" /></a>
+  <a href="https://www.linkedin.com/in/elinogueira"><img src="https://img.shields.io/badge/Virtual_Coffee_Chat%3A_30_min%2C_No_Pitch-FF751F?style=flat" alt="Virtual Coffee Chat: 30 min, No Pitch" /></a>
 </p>
