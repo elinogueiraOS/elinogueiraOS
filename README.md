@@ -2,7 +2,7 @@
 
 **Senior Marketing & Analytics Manager.** Turning marketing spend into measurable pipeline.
 
-I work where marketing, sales and data meet: lead management, CRM & automation, and attribution & BI. I'm not a developer. I build the marketing tools I need with Claude Code and share them here, so other marketers can use them too. I post about all of it on [LinkedIn](https://www.linkedin.com/in/elinogueira).
+I work where marketing, sales and data meet: lead management, CRM & automation, and attribution & BI. I'm not a developer. I build the marketing tools I need with Claude Code and share them here, so other marketers can use them too.
 
 `TECHNOLOGY × DATA × PROCESS = PERFORMANCE`
 
