@@ -3,7 +3,7 @@
 **Senior Marketing & Analytics Manager.** Turning marketing spend into measurable pipeline.
 
 I work where marketing, sales and data meet: lead management, CRM & automation, and attribution & BI. 
-Building the marketing tools I need with Claude Code and sharing them here, so other marketers can use them too.
+Building the marketing tools I need with Claude Code, and getting them ready to share here so other marketers can use them too.
 
 `TECHNOLOGY × DATA × PROCESS = PERFORMANCE`
 
@@ -12,6 +12,7 @@ Building the marketing tools I need with Claude Code and sharing them here, so o
 ### Currently
 
 - Building Claude Code skills for marketing ops: CRM, lead management and attribution
+- Coming soon: **Search Console Review** (crawling, indexing, ranking and AI readiness in one dashboard), **Ad Group Builder** (Google Ads plans with copy buttons) and **Channel Unit Economics** (CAC, LTV and payback per channel)
 - Writing LinkedIn posts that take one real CRM problem and show the fix
 - Testing how AI assistants cite brands, and what makes them cite yours (GEO)
 
