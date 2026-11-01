@@ -8,36 +8,57 @@ I turn marketing spend into measurable pipeline. For 8+ years in B2B tech and hi
 
 ---
 
-### What I build
+### 1. What I build
 
 Tools for the weekly marketing ops work that eats hours. Each one reads an export you already have and returns one page with the answer and the next action. No API keys, and no data leaves your computer.
 
-| Tool | The problem it solves | Status |
-|---|---|---|
-| **Search Console Review** | Traffic dropped, but is it seasonality, rankings or click rate? Finds the cause and writes the page fixes, measured in pixels the way Google truncates. | Coming soon |
-| **Ad Group Builder** | Low-volume and B2B Google Ads accounts follow big-account advice and overpay. Groups keywords by intent, picks match types and negatives, writes the ads. | Coming soon |
-| **Channel Unit Economics** | Cost per lead hides which channels lose money. Calculates fully loaded CAC, LTV and payback per channel, in the language finance uses. | Coming soon |
+#### 1.1 Search Console Review · *Coming soon*
+
+Traffic dropped, but is it seasonality, rankings or click rate? Finds the cause and writes the page fixes, measured in pixels the way Google truncates.
+
+![Search Console Review: weekly summary, KPI tiles for clicks, impressions, click rate and position, a map of every query, and the page fixes to make first](assets/search-console-review.jpg)
+
+#### 1.2 Ad Group Builder · *Coming soon*
+
+Low-volume and B2B Google Ads accounts follow big-account advice and overpay. Groups keywords by intent, picks match types and negatives, writes the ads.
+
+![Ad Group Builder: plan overview with ad groups, copy within Google's limits, wasted spend blocked by negatives, and keywords per ad group](assets/ad-group-builder.jpg)
+
+#### 1.3 Channel Unit Economics · *Coming soon*
+
+Cost per lead hides which channels lose money. Calculates fully loaded CAC, LTV and payback per channel, in the language finance uses.
+
+![Channel Unit Economics: verdict, LTV:CAC, payback and CAC tiles, a channel map by value and payback speed, and the top budget actions](assets/channel-unit-economics.jpg)
+
+<sub>All screenshots show demo reports built from fictitious data.</sub>
 
 ---
 
-### How I work
+### 2. How I work
+
+#### 2.1 Principles
 
 - **Diagnose first.** Find out why the number moved before changing anything.
 - **Judge spend on revenue.** Clicks and leads are inputs; deals, enrolments and payback are the result.
 - **Say how far to trust it.** Every report I build states its data gaps.
 - **Automate the repeat work** so the team spends its time on decisions.
 
-**Stack**
+#### 2.2 Stack
+
 - **CRM & automation:** Salesforce · Account Engagement (Pardot) · HubSpot
 - **Ads & SEO:** Google Ads · Microsoft Ads · LinkedIn Ads · Search Console · SEMrush · Screaming Frog
 - **Tracking & BI:** GA4 · Google Tag Manager · Matomo · Power BI · Looker Studio · VWO
 - **Building:** Python · Claude Code · LLM workflows
 
-**Credentials:** M.Sc. Marketing, King's College London (Distinction) · Salesforce Certified Platform Administrator · Microsoft Certified Power BI Data Analyst
+#### 2.3 Credentials
+
+- M.Sc. Marketing, King's College London (Distinction)
+- Salesforce Certified Platform Administrator
+- Microsoft Certified Power BI Data Analyst
 
 ---
 
-### Currently
+### 3. Currently
 
 - Testing how AI assistants cite brands, and what makes them cite yours (GEO)
 - Writing LinkedIn posts that take one real CRM problem and show the fix
@@ -48,6 +69,8 @@ Tools for the weekly marketing ops work that eats hours. Each one reads an expor
 </p>
 
 ---
+
+### 4. Disclaimer
 
 > [!WARNING]
 > **Independent projects.** All repositories on this profile are personal projects, developed in my own time and with my own resources. They are not commissioned by, affiliated with or endorsed by any current or former employer or client, and they do not use any employer's or client's data, systems or confidential information.
